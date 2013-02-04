@@ -1,0 +1,15 @@
+#This is a comment
+
+#Previous line is empty
+
+   #Previous line is also empty
+   
+This parameter : has a value
+
+
+ThisParam:has also a value
+
+#There is a signature without beginning
+
+MCwCFBHBCpF9XkU6IPV3Sn8odYce8nk3AhQYB24vRNJR3QiQGSKch2fwLcTPFw==
+=====================  SIGNATURE END  =====================

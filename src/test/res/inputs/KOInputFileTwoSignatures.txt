@@ -1,0 +1,21 @@
+#This is a comment
+
+#Previous line is empty
+
+   #Previous line is also empty
+   
+This parameter : has a value
+
+
+ThisParam:has also a value
+
+#The following lines contain the signature of the file.
+#This parameter:has a value
+#ThisParam:has also a value
+#
+===================== SIGNATURE BEGIN =====================
+MCwCFG5RO21x/aKpunQj/viHK51eo6B+AhQc/hcQlRujtLogyD4sEwJtr8texA==
+=====================  SIGNATURE END  =====================
+===================== SIGNATURE BEGIN =====================
+MCwCFG5RO21x/aKpunQj/viHK51eo6B+AhQc/hcQlRujtLogyD4sEwJtr8texA==
+=====================  SIGNATURE END  =====================

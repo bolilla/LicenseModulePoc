@@ -1,0 +1,12 @@
+#This is a comment
+
+#Previous line is empty
+
+   #Previous line is also empty
+   
+This parameter : has a value
+
+
+ThisParam:has also a value
+
+#There is no signature in this file
